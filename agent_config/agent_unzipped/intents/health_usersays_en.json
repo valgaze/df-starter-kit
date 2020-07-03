@@ -1,0 +1,74 @@
+[
+  {
+    "id": "74900f08-f9b6-48f8-b356-6c58b27b376e",
+    "data": [
+      {
+        "text": "hey bot are you ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da05d638-2a51-46ed-9321-5afdb621deac",
+    "data": [
+      {
+        "text": "healthcheck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7925b3d-b52e-4824-8712-58c22afd9b78",
+    "data": [
+      {
+        "text": "Hey bot how\u0027s your health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e1d9c4-e88c-47a6-984b-99e3911e0234",
+    "data": [
+      {
+        "text": "Hey bot are you feeling alright?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b9c0853-4168-4aea-807b-5dc212870e54",
+    "data": [
+      {
+        "text": "health check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd183a74-a531-4c55-b3a2-7e2973b19dad",
+    "data": [
+      {
+        "text": "health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

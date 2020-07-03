@@ -1,0 +1,260 @@
+[
+  {
+    "id": "34cbbc89-37d2-48b6-9711-82a50c3e9fb2",
+    "data": [
+      {
+        "text": "\"#cheat a prop\u003dval prop2\u003dval2 prop3\u003dval3 prop4\u003dval4\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8b57f21-97d0-4e39-a885-2682139a45a3",
+    "data": [
+      {
+        "text": "\"#cheat __shortcut1\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad57cbb-eac0-41bb-b299-5527784f0b3a",
+    "data": [
+      {
+        "text": "\"#cheat event eventnamehere\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49b52980-05ce-4ac6-9180-03e0fa651222",
+    "data": [
+      {
+        "text": "\"#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "urlcheat",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13ae029b-b4cb-4944-9370-6afb4306df02",
+    "data": [
+      {
+        "text": "\"#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "biscotti",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da9f5b50-c81e-402c-9091-b691937c49c8",
+    "data": [
+      {
+        "text": "#cheat a prop\u003dval ",
+        "userDefined": false
+      },
+      {
+        "text": "prop2",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "\u003dval2 prop3\u003dval3 prop4\u003dval4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "654d5c56-e053-4b49-b579-4610fa1a92bd",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "video url\u003dhttps://youtu.be/6A8W77m-ZTw autoplay\u003dyes start\u003d2m15s end\u003d3m4s",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5abbb823-a653-4885-ad60-6641dc380a88",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22ae465-c8cd-483b-babc-198214699987",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "__customitem",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "789f0fab-de1e-41b0-9329-012ebd946643",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "__shortcut1",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a84da0ae-0608-4d2d-8329-4850b3e66f93",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "event eventnamehere",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e831dd4-82e5-446f-aa5e-b85f9ad6531b",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "graph bar {chartjs:1}",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a40843d-e060-4011-b13b-de09776c58f9",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "graph line {chartjs:1}",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "27c71cea-dd4a-4b8b-879a-29a3a707543b",
+    "data": [
+      {
+        "text": "#cheat ",
+        "userDefined": false
+      },
+      {
+        "text": "graph datadatadata",
+        "alias": "args",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c91158b3-53ca-4b93-811c-fa2ff1feb468",
+    "data": [
+      {
+        "text": "#cheat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

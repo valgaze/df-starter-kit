@@ -1,0 +1,38 @@
+[
+  {
+    "value": "small",
+    "synonyms": [
+      "small",
+      "tiny",
+      "1 scoop",
+      "teeny",
+      "1"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium",
+      "2 scoops",
+      "2 scoop",
+      "2"
+    ]
+  },
+  {
+    "value": "large",
+    "synonyms": [
+      "large",
+      "big",
+      "huge",
+      "3 scoops",
+      "lagre",
+      "largrge",
+      "alrge",
+      "alrgg",
+      "larrge",
+      "lage",
+      "lrge",
+      "3"
+    ]
+  }
+]

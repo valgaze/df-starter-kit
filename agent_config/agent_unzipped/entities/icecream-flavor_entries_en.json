@@ -1,0 +1,45 @@
+[
+  {
+    "value": "vanilla",
+    "synonyms": [
+      "vanilla",
+      "plain",
+      "default",
+      "vanila",
+      "vannila"
+    ]
+  },
+  {
+    "value": "strawberry",
+    "synonyms": [
+      "strawberry",
+      "strawbery"
+    ]
+  },
+  {
+    "value": "chocolate",
+    "synonyms": [
+      "chocolate",
+      "chococlate",
+      "choclate"
+    ]
+  },
+  {
+    "value": "broccoli",
+    "synonyms": [
+      "broccoli",
+      "brocli",
+      "brockli",
+      "brocoli"
+    ]
+  },
+  {
+    "value": "mint",
+    "synonyms": [
+      "mint",
+      "minty",
+      "green",
+      "miint"
+    ]
+  }
+]

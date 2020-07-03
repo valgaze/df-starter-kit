@@ -1,0 +1,3 @@
+[submodule "src/frontend/df-frontend-vue"]
+	path = src/frontend/df-frontend-vue
+	url = https://github.com/valgaze/df-frontend-vue

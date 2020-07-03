@@ -1,0 +1,37 @@
+{
+  "id": "fd259054-cab6-4993-a60a-e73b8d63de15",
+  "name": "__df_cheathandler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7ebc197-964b-44cb-b848-3d958346d8bf",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "args",
+          "value": "$args",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

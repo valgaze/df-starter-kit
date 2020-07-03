@@ -1,0 +1,92 @@
+{
+  "id": "a2770bd5-6b88-48be-a939-bbb01cd4dcde",
+  "name": "icecream",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67212bc6-e238-437a-b3b4-418267f57b65",
+          "required": true,
+          "dataType": "@icecream-size",
+          "name": "icecream-size",
+          "value": "$icecream-size",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What size?"
+            },
+            {
+              "lang": "en",
+              "value": "Small, medium or large?"
+            },
+            {
+              "lang": "en",
+              "value": "What size would you like for your ice cream?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you want 1, 2 or 3 scoops?"
+            },
+            {
+              "lang": "en",
+              "value": "How hungry are you? What size?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4780db24-52ee-45e4-a905-4e6123d0038a",
+          "required": true,
+          "dataType": "@icecream-flavor",
+          "name": "icecream-flavor",
+          "value": "$icecream-flavor",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What flavor? (ex, vanilla, chocolate, strawberry, mint, broccoli etc)"
+            },
+            {
+              "lang": "en",
+              "value": "We\u0027ve got vanilla/choc/strawberry + mint  \u0026 broccoli. What are you looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "Would you like vanilla, chocolate, strawberry, mint, or....broccoli?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
