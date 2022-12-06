@@ -18,12 +18,12 @@
   },
   "dependencies": {
     "actions-on-google": "^2.12.0",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "df-cheatcodes": "^0.5.4",
     "dialogflow": "^1.2.0",
     "dialogflow-fulfillment": "0.5.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash.get": "^4.4.2",
     "pb-util": "^0.1.3"
   }
